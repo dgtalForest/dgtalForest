@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, how are you doing?</h1>
+<h1 align="center">Hey there 👋, welcome to my space!</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
 <!--Intro start-->
-
-- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB**
-
 
 <!-- - 🏠 Don't hesitate to drop me a **👋** on Skype – [live:.cid.e83e77ce7e2a5aee](https://web.skype.com/?openPstnPage=true)  my username!
 
@@ -52,11 +49,11 @@
 </div>
 <!--tech stack icons-->
 
-### Programming Language
+### Programming Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,php" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,php,java,js,ts" />
   </a>
 </p>
 
@@ -64,7 +61,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,gatsby,vue,angular,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,html,css,tailwind,materialui" />
   </a>
 </p>
 
@@ -72,7 +69,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,express,nestjs,django" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,express,laravel,springboot" />
   </a>
 </p>
 
@@ -80,15 +77,15 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb,oracle" />
   </a>
 </p>
 
-### Cloud Servers
+### Cloud & DevOps
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,git,github,linux" />
   </a>
 </p>
 
@@ -98,26 +95,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
   </a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/dgtalForest/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://dgtalForest.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-<a href="https://dev.to/dgtalforest" target="blank">
-    <img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-        alt="techforest" height="30" width="40" />
-    </a>
 </p>
 
 <!--profile visit count-->
